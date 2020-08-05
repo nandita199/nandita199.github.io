@@ -1,0 +1,91 @@
+[ {
+  "uid" : "d06a9b6efc5c388c",
+  "name" : "Check if user has not entered his email id/contact no fail message should come.",
+  "time" : {
+    "start" : 1596272393360,
+    "stop" : 1596272411572,
+    "duration" : 18212
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "487f77706d32fe1",
+  "name" : "To check login functionality of SERVICE PROVIDER and default landing page",
+  "time" : {
+    "start" : 1596272355251,
+    "stop" : 1596272364883,
+    "duration" : 9632
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "691088b047f1951f",
+  "name" : "To check login functionality of ADMIN and default landing page",
+  "time" : {
+    "start" : 1596272281844,
+    "stop" : 1596272320795,
+    "duration" : 38951
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "49749b7500bed6da",
+  "name" : "To check the functionality of reset password",
+  "time" : {
+    "start" : 1596272367517,
+    "stop" : 1596272375089,
+    "duration" : 7572
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "34b66c88c9d4ea22",
+  "name" : "To check when clicked on forgot password,an error message is shown when wrong username is entered.",
+  "time" : {
+    "start" : 1596272378387,
+    "stop" : 1596272389943,
+    "duration" : 11556
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4275b67f5b294e1a",
+  "name" : "To check login functionality of MERCHANT and default landing page",
+  "time" : {
+    "start" : 1596272343055,
+    "stop" : 1596272352454,
+    "duration" : 9399
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9506e789b370f78c",
+  "name" : "To check login functionality of MANAGER and default landing page",
+  "time" : {
+    "start" : 1596272327079,
+    "stop" : 1596272339640,
+    "duration" : 12561
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "585b9f1ea5610486",
+  "name" : "check single user login functionality",
+  "time" : {
+    "start" : 1596272413931,
+    "stop" : 1596272466136,
+    "duration" : 52205
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "716931dcedaa1933",
+  "name" : "check by logging in private window.",
+  "time" : {
+    "start" : 1596272468168,
+    "stop" : 1596272500187,
+    "duration" : 32019
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
